@@ -11,6 +11,7 @@
 | 혼인 상태 특징 | 배우자 있음 59.3%로 최다, 미혼 25.7% |
 | 직업 분포 특징 | 무직 36.7%로 압도적 1위, 이하 단순노무/서비스직 위주 |
 
+## 그래프
 
 <img width="1389" height="989" alt="Image" src="https://github.com/user-attachments/assets/547f6f4f-38d1-4dc8-adaf-492095646be6" />
 

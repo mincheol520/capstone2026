@@ -1,4 +1,13 @@
 <img width="1389" height="989" alt="Image" src="https://github.com/user-attachments/assets/547f6f4f-38d1-4dc8-adaf-492095646be6" />
+### EDA 결과
+- 실행한 분석
+- 결측치 확인
+- 성별 분포
+연령 분포
+시도별 거주지 분포
+학력 분포
+혼인 상태 분포
+직업 상위 20개
 ===== 조건부 픽 (관심사 필터링) =====
 [uuid]
 a8f2399d41df4fb28051140475955e47

@@ -1,4 +1,6 @@
 <img width="1389" height="989" alt="Image" src="https://github.com/user-attachments/assets/547f6f4f-38d1-4dc8-adaf-492095646be6" />
+
+
 ### EDA 결과  
 - 실행한 분석  
 - 결측치 확인

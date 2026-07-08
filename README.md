@@ -4,4 +4,4 @@
 
 # 26.07.03
 데이터셋 EDA
-DatasetsEDA
+[DatasetsEDA](https://github.com/mincheol520/capstone2026/blob/50b314c7c3be3c5aef679f25edbceb61c614df83/DatasetsEDA)

@@ -98,10 +98,11 @@ keyword_mask = (
     df["occupation"].str.contains("네트워크|정보통신|보안|데이터", na=False)
     | df["skills_and_expertise"].str.contains("데이터베이스|서버|네트워크|클라우드", na=False)
 )
-tech_personas = df[keyword_mask]
-print(f"\n키워드 조건에 맞는 페르소나 수: {len(tech_personas)}")
-
-if len(tech_personas) > 0:
-    my_favorite = tech_personas.sample(1, random_state=1).iloc[0]
+age_mask = df["age"].between(25, 40)
+tech_personas_young = df[keyword_mask & age_mask]
+print(f"\n키워드 조건에 맞는 페르소나 수: {len(tech_personas_young)}")
+ 
+if len(tech_personas_young) > 0:
+    my_favorite = tech_personas_young.sample(1, random_state=1).iloc[0]
     print("\n===== 조건부 픽 (관심사 필터링) =====")
     print_persona(my_favorite)

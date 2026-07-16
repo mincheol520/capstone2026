@@ -6,4 +6,4 @@
 데이터셋 EDA + 최애 주민 뽑기 숙제  
   [DatasetsEDA](https://github.com/mincheol520/capstone2026/blob/50b314c7c3be3c5aef679f25edbceb61c614df83/DatasetsEDA)
   
-  [eda_overview.md](https://github.com/mincheol520/capstone2026/blob/92d255d6df8bbf0af9c4767af4757bbf48a13591/learn/eda_overview.md)
+  [eda_overview.md](https://github.com/mincheol520/capstone2026/blob/76a3ebbd07da989cc5c4b656f8cd86c47cac2a46/learn/eda_overview.md)

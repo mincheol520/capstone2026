@@ -53,3 +53,5 @@
 "작전 중 통신 장애 발생 시 서버실로 달려가 논리적으로 원인을 분석해 복구"하는
 부분이 실제 직업군인을 꿈꿨던 나로서는 놀라웠고, 보고서 오타까지 잡아내는
 꼼꼼함이라는 디테일이 흥미로웠다.
+
+https://colab.research.google.com/drive/1S0bRQI6NbrFKnEAYXhI5yurL8a0P3q6T
